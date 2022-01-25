@@ -1,0 +1,116 @@
+html,.container-lg,body{
+background-color: #1E90FF;
+
+}
+a{
+color: white;
+text-align: center;
+text-decoration: none;
+display: block;
+font-family:Lucida Console;
+}
+
+#s1{
+    width: auto;
+     height: 900px;
+     display: block;
+background-image: url("../content/px1.jpg");
+background-repeat: no-repeat;
+Background-size:cover;
+background-position: center;
+
+
+
+}
+#pri{
+    padding-top : 180px;
+
+}
+h1,.name{
+   
+font-size: 500%;
+text-align: center;
+color: white;
+text-shadow: wheat;
+font-family: "poppins-medium", sans-serif;
+line-height: 1.071;
+text-shadow: 0 0 20px rgb(0 0 0 / 50%);
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+font-weight: bold;
+
+}
+#pri>h5{
+   
+    font-size: 300%;
+    text-align: center;
+    color:  #00768C;
+    font-family: "poppins-bold", sans-serif;
+    line-height: 1.565;
+    text-shadow: 0 0 6px rgb(0 0 0 / 20%);
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+ 
+    }
+    
+    .intro-position>span{
+        font-family: "lora-regular", serif;
+        font-size: 1.7rem;
+        line-height: 2.4rem;
+        text-transform: uppercase;
+        letter-spacing: .2rem;
+        color: #FFFFFF;
+        text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+
+    }
+
+
+    #pri .intro-position span::after {
+        content: "|";
+        text-align: center;
+        display: inline-block;
+        padding: 0 8px 0 14px;
+        color: rgba(255, 255, 255, 0.3);
+    }
+    #pri .intro-position span:first-child::before {
+        content: "|";
+        text-align: center;
+        display: inline-block;
+        padding: 0 14px 0 8px;
+        color: rgba(255, 255, 255, 0.3);
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      
+      }
+
+      li {
+       float: left;
+       text-align: center;
+      }
+      
+      li a {
+ 
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        display: block;
+        font-family:Lucida Console;
+        
+      }
+      #teste{
+          padding-top: 15px;
+width: 600px;
+height: 50px;
+display: block;
+
+padding-left: 50px;
+
+      }
